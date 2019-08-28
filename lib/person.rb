@@ -1,4 +1,6 @@
 class Person 
+  
+  
   def name #getter
     @name
   end
@@ -7,7 +9,7 @@ class Person
     @name = person_name
   end
   
-  def job
+  def job #getter 
     @job
   end
   
